@@ -9,6 +9,8 @@ The plugin utilizes a pretty commonly accepted iFrame to host ApeSwap's platform
 <iframe src="https://apeswap.finance/swap" width="400px" height="700px" />
 ```
 
+![image](https://user-images.githubusercontent.com/78942906/181266016-93ff0d34-225a-45ca-986e-0d4800907888.png)
+
 For a working demo, clone this repo & open the `index.html` file on your local machine.
 
 
