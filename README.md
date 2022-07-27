@@ -6,7 +6,7 @@ This repo gives a quick overview on ApeSwap's current DEX plugin capabilities, t
 The plugin utilizes a pretty commonly accepted iFrame to host ApeSwap's platform on your UI. Without any customization, it may look something like:
 
 ```
-<iframe src="https://apeswap.finance/swap" width="400px" height="700px" />
+<iframe src="https://apeswap.finance/swap" width="400px" height="700px" scrolling="no" />
 ```
 
 For a working demo, clone this repo & open the `index.html` file on your local machine.
